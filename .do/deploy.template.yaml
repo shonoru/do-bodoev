@@ -1,0 +1,8 @@
+spec:
+  name: do-bodoev
+  static_sites:
+    - environment_slug: html
+      git:
+        branch: main
+        repo_clone_url: https://github.com/shonoru/do-bodoev.git
+      name: do-bodoev
